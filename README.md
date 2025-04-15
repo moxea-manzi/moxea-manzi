@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moxea-manzi
+- 👋 Hi, I’m @moses-manzi
 - 👀 I’m interested in software Engineering 
 - 🌱 I’m currently learning Data science 
 - 💞️ I’m looking to collaborate on cloud Computing 
